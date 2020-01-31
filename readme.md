@@ -1,0 +1,1 @@
+### Use equal dimension png images for best experience
